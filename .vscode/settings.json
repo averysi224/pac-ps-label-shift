@@ -1,0 +1,5 @@
+{
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "typescript.updateImportsOnFileMove.enabled": "never",
+    "git.ignoreLimitWarning": true
+}
